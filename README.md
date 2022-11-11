@@ -41,6 +41,6 @@ TASKANA splits up into five components:
  * Provides views and statistics about the conformance with defined services levels
  * Shows the workload of your organization and the individual teams
 
-CI-Test
+CI-Test2
 
 
